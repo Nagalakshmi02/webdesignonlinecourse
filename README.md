@@ -24,5 +24,5 @@ this repo contains online web design course using reactjs
   * tomatoes
   * spinach
   * carrot
-[google]--> test to be diplayes
-[google.com]
+[google]--> text to be diplayes
+[Google](https://google.com)
