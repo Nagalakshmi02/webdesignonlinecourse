@@ -18,14 +18,13 @@ this repo contains online web design course using reactjs
   1. mangoes
   2. goa
 
-
-
-
 **syntax for unordered list * list name**
 * vegetables
   * tomatoes
   * spinach
   * carrot
+  
+  
 [google]--> text to be diplayes (link) syntax to insert link
 
 
