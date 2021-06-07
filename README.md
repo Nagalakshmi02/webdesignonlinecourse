@@ -12,6 +12,8 @@ this repo contains online web design course using reactjs
  
  
  **syntax: 1 . list name to create ordered list items**
+ 
+ 
 1 .fruits
   1. mangoes
   2. goa
