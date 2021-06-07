@@ -9,3 +9,15 @@ this repo contains online web design course using reactjs
 **this is bold type**
 *this is a italic*
 ***this is both bold and italic***
+ 
+ 
+ **syntax: 1 . list name to create ordered list items**
+1. fruits
+  1. mangoes 
+  2 .goa
+  this is ordered list
+**syntax for unordered list * list name**
+* vegetables
+  * tomatoes
+  * spinach
+  * carrot
