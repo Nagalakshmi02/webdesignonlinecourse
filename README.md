@@ -24,5 +24,7 @@ this repo contains online web design course using reactjs
   * tomatoes
   * spinach
   * carrot
-[google]--> text to be diplayes
+[google]--> text to be diplayes (link) syntax to insert link
+
+
 [Google](https://google.com)
