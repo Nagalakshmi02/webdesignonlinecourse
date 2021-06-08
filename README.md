@@ -30,8 +30,7 @@ this repo contains online web design course using reactjs
 
 [Google](https://google.com)
 
-
-! [tajmahal](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTaj_Mahal&psig=AOvVaw15dEqf8c5J5Llu6XCyHwyF&ust=1623228974725000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiYm6bVh_ECFQAAAAAdAAAAABAD)
+![tajmahal](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg/1200px-Taj_Mahal_in_India_-_Kristian_Bertel.jpg)
 
 Name | Number | section
 -----|--------|--------
