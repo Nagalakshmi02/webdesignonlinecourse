@@ -38,6 +38,6 @@ Name | Number | section
 Nagalakshmi|98665421 |cse-A
 
 
-'''python
+```python
 def python():
 print(hi)
