@@ -36,3 +36,8 @@ this repo contains online web design course using reactjs
 Name | Number | section
 -----|--------|--------
 Nagalakshmi|98665421 |cse-A
+
+
+'''python
+def python():
+print(hi)
